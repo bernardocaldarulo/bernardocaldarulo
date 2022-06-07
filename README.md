@@ -2,6 +2,7 @@
 - ✅ High School diploma in IT. Informatics student at University of Bari, Italy. 🍕
 - 👨‍💻 Data Science enthusiastic.
 - 🚀 LinkedIn: linkedin.com/in/bernardo-caldarulo.
+- 🎓 High School Portfolio: https://viabernardocaldarulo.altervista.org
 - 💞️ I’m looking to collaborate on many projects.
 - 📫 How to reach me: LinkedIn, email.
 
