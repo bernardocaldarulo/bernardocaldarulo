@@ -3,7 +3,7 @@
 - 🎓 High School Portfolio: https://viabernardocaldarulo.altervista.org.
 - 👨‍💻 Data Science enthusiastic.
 - 🚀 LinkedIn: https://www.linkedin.com/in/bernardo-caldarulo.
-- 💞️ I’m looking to collaborate on many projects.
+- 💞️ I will cooperate on many projects.
 - 📫 How to reach me: LinkedIn, email.
 
 <!---
