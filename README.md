@@ -4,7 +4,7 @@
 - 👨‍🎓 Informatics student at University of Bari, Italy.
 - 👨‍💻 Data Science and AI enthusiast.
 - 🚀 LinkedIn: https://www.linkedin.com/in/bernardo-caldarulo.
-- 💞️ I aim to cooperate at many projects.
+- 💞️ I aim to contribute to open source projects.
 - 📫 How to reach me: LinkedIn, email.
 
 <!---
