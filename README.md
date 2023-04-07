@@ -5,7 +5,6 @@
 - 💞️ I aim to contribute to open source projects.
 
 - 📫 How to reach me: LinkedIn, email.
-- 🏫 High School Portfolio: https://viabernardocaldarulo.altervista.org.
 - 🚀 LinkedIn: https://www.linkedin.com/in/bernardo-caldarulo.
 
 <!---
