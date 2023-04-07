@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @bernardocaldarulo
-- 💻 High School diploma in IT 🍕.
 - 👨‍🎓 Informatics student at University of Bari, Italy.
 - 👨‍💻 Data Science and AI enthusiast.
-- 💞️ I aim to contribute to open source projects.
-
-- 📫 How to reach me: LinkedIn, email.
 - 🚀 LinkedIn: https://www.linkedin.com/in/bernardo-caldarulo.
 
 <!---
