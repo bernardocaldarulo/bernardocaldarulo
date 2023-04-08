@@ -1,4 +1,4 @@
-# Bernardo Caldarulo
+# About me
 - 👨‍🎓 Informatics student at University of Bari, Italy.
 - 👨‍💻 Data Science and AI enthusiast.
 
